@@ -28,3 +28,5 @@ This project helps learners understand:
 * API integration using `fetch()`.
 * Responsive design using CSS.
 * Practical application of web development skills.
+
+
