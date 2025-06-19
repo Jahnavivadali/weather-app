@@ -29,4 +29,6 @@ This project helps learners understand:
 * Responsive design using CSS.
 * Practical application of web development skills.
 
+OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/65b8b4c7-a706-48d5-bc05-491b175fdd62)
